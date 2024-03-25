@@ -1,4 +1,4 @@
-# Bot de Consulta do Valor do Dólar
+# BotValorDoDolar
 
 Este é um bot em Python que consulta automaticamente o valor atual do dólar (USD) em reais (BRL) de um site específico. Ele utiliza a biblioteca Selenium para automatizar a extração dos dados da página da web e imprime o valor do dólar no console.
 
